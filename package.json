@@ -1,0 +1,21 @@
+{
+  "name": "app-prototype",
+  "version": "1.0.0",
+  "description": "A Node.js prototype for Cooler Future",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Bruno Pessanha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validation": "^3.0.2",
+    "i18n-iso-countries": "^5.0.0",
+    "postal-codes-js": "^2.3.1"
+  }
+}
