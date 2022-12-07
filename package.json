@@ -13,7 +13,7 @@
   "author": "Bruno Pessanha",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-validation": "^3.0.2",
     "i18n-iso-countries": "^5.0.0",
     "postal-codes-js": "^2.3.1"
